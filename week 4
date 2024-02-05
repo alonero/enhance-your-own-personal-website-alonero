@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    table {
+        display: table;
+        border-collapse: separate;
+        border-width: p1;
+        border-spacing: 2px;
+        border-color: black;
+      }
+</style>
+</head>
+<body>
+
+<h1>Asa lonero</h1>
+<p>my favorite hobby's are reading and gaming.</p>
+<ol>
+    <li>the mortal instruments</li>
+    <li>percy jackson</li>
+    <li>the dresden files</li>
+</ol>
+<ul>
+    <li>waterhorse</li>
+    <li>the dark knight triliogy</li>
+    <li>deadpool</li>
+</ul>
+<a href="https://www.youtube.com">https://www.youtube.com</a>
+
+
+<table border="1">
+    <tr>
+      <th>literature and science fiction</th>
+      <th>tuesday/thursday 12:30pm-1:45pm</th>
+      <td>books and movies that we discuss</td>
+    </tr>
+    <tr>
+      <td>pre-calculus</td>
+      <td>tuesday/thursday 11:00am-12:15pm</td>
+      <td>the basics of calculus</td>
+    </tr>
+    <tr>
+        <td>luc-202</td>
+        <td>wensday 9:00am-9:50am</td>
+        <td>talking about social problems and ideas</td>
+    </tr>
+  </table>
+  
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*HsB_HaJ9YAMQlmEiwAP3VQ.png" alt="" width="250" height="150">
+</body>
+</html>
